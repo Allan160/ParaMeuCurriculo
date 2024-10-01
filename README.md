@@ -1,5 +1,7 @@
 # ParaMeuCurriculo
 
+![alt text](<Captura de tela 2024-10-01 161127.png>)
+
 # O que foi utilizado?
 
 - Classes e Métodos: Uma única classe (Program) contendo o método principal Main e um método auxiliar LerNota.
