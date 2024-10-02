@@ -20,24 +20,28 @@ public class Program
                 // Calculando a média
                 float media = (nota1 + nota2 + nota3 + nota4) / 4;
 
-                using (StreamWriter escrever = new StreamWriter("AprvadoReprovado"))
+                using (StreamWriter escrever = new StreamWriter("AprvadoReprovado.txt"))
 
                 // Verificando a situação do aluno
-                if (media < 0 || media > 10)
+                if (media < 0 && media > 10)
                 {
                     Console.WriteLine("Média inválida. As notas devem estar entre 0 e 10.");
+                    escrever.WriteLine("Média inválida. As notas devem estar entre 0 e 10.");
                 }
                 else if (media < 6)
                 {
                     Console.WriteLine("O aluno está reprovado.");
+                    escrever.WriteLine("O aluno está reprovado.");
                 }
                 else if (media >= 6 && media < 8)
                 {
                     Console.WriteLine("O aluno está de recuperação.");
+                    escrever.WriteLine("O aluno está de recuperação.");
                 }
                 else
                 {
                     Console.WriteLine("O aluno está aprovado.");
+                    escrever.WriteLine("O aluno está aprovado.");
                 }
 
                 // Perguntar se o usuário deseja continuar
