@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aprovado ou reprovado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9858c61a3128fe29d043b6f18f20bd05e5893c46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2d3ecacfa7ef64770656f5367143b9ae25fc38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aprovado ou reprovado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aprovado ou reprovado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

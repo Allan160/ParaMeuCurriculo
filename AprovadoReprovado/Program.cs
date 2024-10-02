@@ -5,7 +5,6 @@ public class Program
 {
     public static void Main()
     {
-        using (StreamWriter escrever = new StreamWriter("jogos-mega-sena.txt"))
         {
             do
             {
@@ -20,6 +19,8 @@ public class Program
 
                 // Calculando a média
                 float media = (nota1 + nota2 + nota3 + nota4) / 4;
+
+                using (StreamWriter escrever = new StreamWriter("AprvadoReprovado"))
 
                 // Verificando a situação do aluno
                 if (media < 0 || media > 10)
