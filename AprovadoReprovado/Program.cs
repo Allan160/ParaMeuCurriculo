@@ -1,5 +1,7 @@
 using System;
 
+using (StreamWriter escrever = new StreamWriter("jogos-mega-sena.txt"))
+
 public class Program
 {
     public static void Main()
