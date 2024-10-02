@@ -32,10 +32,9 @@
 - [x] Condicionais para verificar se o aluno está aprovado, em recuperação ou reprovado.
 - [x] Testes: Realização de testes para verificar se o programa lida corretamente com entradas válidas e inválidas, além de validar os resultados.
 - [x] Documentação: Comentários e estrutura do código para facilitar a compreensão e manutenção futura.
+- [x] Suporte para Múltiplos Alunos: Permitir que o programa processe as notas de vários alunos em uma única execução.
 
 # Backlog
-
-- [ ] Suporte para Múltiplos Alunos: Permitir que o programa processe as notas de vários alunos em uma única execução.
 
 - [ ] Média Ponderada: Implementar a funcionalidade para calcular a média ponderada, onde diferentes notas têm diferentes pesos.
 
