@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aprovado ou reprovado/1.0.0": {
+        "runtime": {
+          "Aprovado ou reprovado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aprovado ou reprovado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

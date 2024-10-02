@@ -1,0 +1,30 @@
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\bin\Debug\net8.0\Aprovado ou reprovado.exe
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\bin\Debug\net8.0\Aprovado ou reprovado.deps.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\bin\Debug\net8.0\Aprovado ou reprovado.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\bin\Debug\net8.0\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\bin\Debug\net8.0\Aprovado ou reprovado.pdb
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\refint\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.pdb
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\Aprovado ou reprovado.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\Aprovado ou reprovado\obj\Debug\net8.0\ref\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\refint\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.pdb
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\bin\Debug\net8.0\Aprovado ou reprovado.exe
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\bin\Debug\net8.0\Aprovado ou reprovado.deps.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\bin\Debug\net8.0\Aprovado ou reprovado.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\bin\Debug\net8.0\Aprovado ou reprovado.dll
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\bin\Debug\net8.0\Aprovado ou reprovado.pdb
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\Aprovado ou reprovado.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\AllanGabriel\ParaMeuCurriculo\AprovadoReprovado\obj\Debug\net8.0\ref\Aprovado ou reprovado.dll
